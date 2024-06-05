@@ -1,0 +1,62 @@
+Start date: 03-06-2024
+
+1. Parsuram Panda		6372993571		pparsuram420@gmail.com		parsurampanda
+
+
++--------------------+
+| Monday, 03-06-2024 |
++--------------------+
+    =   NodeJS - Learn by watching videos
++---------------------+
+| Tuesday, 04-06-2024 |
++---------------------+
+    =   HTML - Learn by watching videos
+    =   Introduction to programming
+
++-----------------------+
+| Wednesday, 05-06-2024 |
++-----------------------+
+    =   Write a program to print a triangle shape of palindrome numbers?
+
+    =   What is a programming language?
+        A language that can communicate with a computer machine, for example
+        C, C++, Java, Python, etc.
+
+        Programs are written in form of notations that can be read by human
+        users. The machine does'nt understand these notation languages. The machine
+        understands machine language only. The machine language is written using
+        bits, i.e. 0 and 1. The computer languages in form of human readable form
+        must be converted into machine language inorder to be executed by the machine.
+
+        This conversion takes place by a specific tool for the respective language called
+        the compiler. Some computer languages does'nt compile the human readable notation
+        permanently once for all to the machine language.
+
+    =   C, C++ language (Platform dependent)
+            +--------------+          +-------------+         +-------------+
+            |  C++ language|          |             |         |  Machine    |
+            |  Programmes  |--------->|  Compiler   |-------->|  Language   |
+            |  .cpp file   |          |             |         |  .exe file  |
+            +--------------+          +-------------+         +-------------+
+             Source files                                      executable files
+
+    =   Java language (Platform independent)
+            +--------------+          +-------------+         +---------------+
+            |  Java        |          |             |         |  Byte code    |
+            |  Programmes  |--------->|  Compiler   |-------->|  Language     |--->+
+            |  .java       |          |             |         |  .class file  |    |
+            +--------------+          +-------------+         +---------------+    |
+              Source files                                                         |
+                                                             +----------------+    |
+                                                             | JRE - Java     |    |
+                                                             | Runtime Env    |<---+
+                                                             | (On-the-fly)   |
+                                                             | (Just-in-time) |
+                                                             +----------------+
+
+    ASSIGNMENT:
+    1.  Write short notes on the following:
+        a)  Source file
+        b)  Executable file
+        c)  Platform independent
+        d)  JIT compiler
